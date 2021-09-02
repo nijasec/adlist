@@ -1,6 +1,4 @@
-0.0.0.0 www.facebook.com
-0.0.0.0 www.youtube.com
-0.0.0.0 m.facebook.com
-0.0.0.0 facebook.com
-0.0.0.0 youtube.com
-0.0.0.0 m.youtube.com
+158.69.221.198 edgeray-shv-01-frt3.facebook.com
+158.69.221.198 edgeray-shv-02-maa2.facebook.com
+158.69.221.198 edgeray-shv-02-bom1.facebook.com
+158.69.221.198 edgeray-shv-03-sin6.facebook.com
